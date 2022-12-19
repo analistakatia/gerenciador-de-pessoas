@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nosso Gerenciador De Pessoas
 
 O objetivo deste projeto é que as atividades do `Treinamento de CRUD e Relacionamentos` 
@@ -8,3 +9,6 @@ O objetivo deste projeto é que as atividades do `Treinamento de CRUD e Relacion
 2. Importe na sua IDE Favorita, caso não conheça sobre o IDE Java, recomendo o uso do IntelliJ Comunity.
 3. Siga a descrição da atividade que estiver fazendo para construção da funcionalidade pedida.
 4. Qualquer Duvida entre em contato com o Time de Mentores da Zup Edu.
+=======
+# gerenciador-de-pessoas
+>>>>>>> 6bf68f612270d32d9dd900779f2f391720b7e460
